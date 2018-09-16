@@ -1,4 +1,4 @@
 # code your #position_taken? method here!
-def (board, inde))
+def (board, index)
   
 end
