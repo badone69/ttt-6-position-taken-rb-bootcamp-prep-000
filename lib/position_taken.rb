@@ -2,7 +2,7 @@
 def position_taken?(board, index)
   if index = " "
     false 
-  else 
+  elseif inex = "X" && "O" 
     true
   end
 end
